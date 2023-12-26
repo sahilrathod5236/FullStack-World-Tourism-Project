@@ -1,4 +1,4 @@
-# FullStack World Tourism Application with Next.js 14, React, TypeScript, Tailwind, Prisma, MongoDB, NextAuth 2023
+# FullStack World Tourism Application with Next.js 14, React JS, TypeScript, Tailwind, Prisma, MongoDB, NextAuth 2023
 
 Description:
 
