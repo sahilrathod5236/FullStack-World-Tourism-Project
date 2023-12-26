@@ -4,7 +4,7 @@ import { db } from "@/lib/db";
 import { getCurrentUser } from "@/actions/get-current-user";
 
 export async function POST(
-  request: Request,
+  req: Request,
   { params }: { params: { listingId: string } }
 ) {
   const currentUser = await getCurrentUser();
